@@ -1,0 +1,16 @@
+/home/justin/Documents/ClassActivties/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/justin/Documents/ClassActivties/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/justin/Documents/ClassActivties/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/justin/Documents/ClassActivties/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/justin/Documents/ClassActivties/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/justin/Documents/ClassActivties/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/home/justin/Documents/ClassActivties/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/justin/Documents/ClassActivties/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/home/justin/Documents/ClassActivties/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/justin/Documents/ClassActivties/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/justin/Documents/ClassActivties/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/justin/Documents/ClassActivties/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/justin/Documents/ClassActivties/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/justin/Documents/ClassActivties/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/home/justin/Documents/ClassActivties/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/justin/Documents/ClassActivties/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
